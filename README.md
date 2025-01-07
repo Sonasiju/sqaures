@@ -1,2 +1,2 @@
-# sqaures
+# Game of Shapes
  
